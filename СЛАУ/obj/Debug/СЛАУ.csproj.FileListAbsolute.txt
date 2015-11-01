@@ -1,0 +1,21 @@
+D:\Женя\Projects VS\Левые проги\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe.config
+D:\Женя\Projects VS\Левые проги\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe
+D:\Женя\Projects VS\Левые проги\СЛАУ\СЛАУ\bin\Debug\СЛАУ.pdb
+D:\Женя\Projects VS\Левые проги\СЛАУ\СЛАУ\obj\Debug\СЛАУ.exe
+D:\Женя\Projects VS\Левые проги\СЛАУ\СЛАУ\obj\Debug\СЛАУ.pdb
+D:\Женя\Projects VS\Левые проги\СЛАУ\СЛАУ\obj\Debug\СЛАУ.csprojResolveAssemblyReference.cache
+F:\Шарп (веб прога)\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe.config
+F:\Шарп (веб прога)\СЛАУ\СЛАУ\obj\Debug\СЛАУ.exe
+F:\Шарп (веб прога)\СЛАУ\СЛАУ\obj\Debug\СЛАУ.pdb
+F:\Шарп (веб прога)\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe
+F:\Шарп (веб прога)\СЛАУ\СЛАУ\bin\Debug\СЛАУ.pdb
+F:\Шарп (веб прога)\СЛАУ\СЛАУ\obj\Debug\СЛАУ.csprojResolveAssemblyReference.cache
+J:\Шарп (веб прога)\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe.config
+J:\Шарп (веб прога)\СЛАУ\СЛАУ\obj\Debug\СЛАУ.exe
+J:\Шарп (веб прога)\СЛАУ\СЛАУ\obj\Debug\СЛАУ.pdb
+C:\Users\Женя\Desktop\Проекты VS\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe.config
+C:\Users\Женя\Desktop\Проекты VS\СЛАУ\СЛАУ\obj\Debug\СЛАУ.exe
+C:\Users\Женя\Desktop\Проекты VS\СЛАУ\СЛАУ\obj\Debug\СЛАУ.pdb
+C:\Users\Женя\Desktop\Проекты VS\СЛАУ\СЛАУ\bin\Debug\СЛАУ.exe
+C:\Users\Женя\Desktop\Проекты VS\СЛАУ\СЛАУ\bin\Debug\СЛАУ.pdb
+C:\Users\Женя\Desktop\Проекты VS\СЛАУ\СЛАУ\obj\Debug\СЛАУ.csprojResolveAssemblyReference.cache
